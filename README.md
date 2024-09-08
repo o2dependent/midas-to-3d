@@ -4,7 +4,7 @@ Playing with midas to generate 3d objects from photos
 
 ## How to run
 
-Create env -> install packages -> `python midascv_pic.py` -> cd web && bun install && bun dev
+Create conda env -> install packages -> `python midascv_pic.py` -> cd web && bun install && bun dev
 
 Go to the port hosted (http://localhost:4321 unless port is occupied) and see the mapped depth map.
 
